@@ -1,0 +1,5 @@
+uso de orm sqlalchemy
+https://docs.sqlalchemy.org/en/14/orm/quickstart.html
+https://www.tutorialspoint.com/sqlalchemy/index.htm
+
+pip install -r requirements.txt
